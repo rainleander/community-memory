@@ -41,22 +41,17 @@ The goal is simple:
 
 ## Contribute
 
-We're looking for:
+Community Memory is intentionally early stage and community-driven.
 
-- Real-world use cases
-- Templates
-- Best practices
-- Prototype tooling
-- Examples from existing communities
+Whether you have a use case, template, experiment, or strong opinion, we'd love to hear from you.
 
-Questions we'd love help answering:
+See CONTRIBUTING.md.
 
-- What knowledge is hardest to find?
-- What questions are repeatedly asked?
-- How does your project preserve context?
-- What tools already solve parts of this problem?
+## Why This Matters 
 
-Open an issue and share your experience.
+We've gotten very good at scaling code. 
+
+Now it's time to scale knowledge.
 
 ## Repository Structure
 
