@@ -45,7 +45,7 @@ Community Memory is intentionally early stage and community-driven.
 
 Whether you have a use case, template, experiment, or strong opinion, we'd love to hear from you.
 
-See CONTRIBUTING.md.
+Read our [Contribution Guide](CONTRIBUTING.md).
 
 ## Why This Matters 
 
