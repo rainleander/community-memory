@@ -60,3 +60,7 @@ docs/
 templates/
 examples/
 experiments/
+
+## License
+
+[BSD 3-Clause "New" or "Revised" License](LICENSE)
